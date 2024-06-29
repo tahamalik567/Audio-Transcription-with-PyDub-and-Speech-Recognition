@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your code snippet that explains the functionality and usage. Feel free to customize it further to match your project:
-
----
-
 # Audio Transcription with PyDub and Speech Recognition
 
 This Python script demonstrates how to cut an audio file, chunk it into smaller segments, and transcribe those segments using the PyDub library for audio manipulation and the SpeechRecognition library for speech-to-text conversion.
@@ -56,5 +52,3 @@ with open("transcription.txt", "w") as file:
 ```
 
 Remember to adjust the file paths and customize the script according to your specific requirements.
-
----
